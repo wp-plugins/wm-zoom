@@ -9,10 +9,16 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+WM Zoom is awesome, supper flexible wordpress plugin. By installing the plugin you will get eye catching several Zooms in your website.
+
+
 == Description ==
 
 JQuery zoom plugin transfered into wordpress WM Zoom. we are able to include maximum features in the wodpress zoom plugin for instance Basic Zoom, Tints, Gallery & Lightbox, Window Position, Inner Zoom, Lens Zoom, Fade in / Fade Out, External Controls, Easing, Mousewheel Zoom, Zoom Window Size, Image Constrain and also have supper admin flexibility. Any one can lownload and use it easily for his own wordpress website and can order for premium version. let's start to download free WM zoom wordpress plugin and use it.
 
+Please contact with me in my Email address freelencermamunur@gmail.com beside i am available to work for your own website.  
+
+Please see demo URL: http://websitebuilderbd.com/plugins/wordpress-wm-zoom/
 
 == Installation ==
 
@@ -22,7 +28,6 @@ Installing the plugins is just like installing other wordpress plugins. If you d
 
 Install by ZIP file
 
-e.g.
 
 1. From your wordpress dashboard, choose 'add new' under the 'plugins' catagory
 2. Select 'upload' from the set of links at the top of the page (The second links) button
@@ -33,7 +38,6 @@ Note : After complete your installation, you must have copy shortcode [basic_zoo
 
 Install by FTP
 
-e.g.
 
 1. Find the directory titled 'WM-ZOOM' and upload it and all files within to the plugins directory of your wordpress install (/WORDPRESS-DIRECTRY/wp-content/plugins/) [e.g.www.yourdomain.com/wp-content/plugins/]
 2. Select 'upload' from the set of links at the top of the page (The second links) button
@@ -44,40 +48,43 @@ Note : After complete your installation, you must have copy shortcode [basic_zoo
 
 For Basic Usages
 
-1. Basic Zoom shortcode 
+<strong> * Basic Zoom shortcode </strong>
 
 <pre>[basic_zoom small_img="" large_img=""]</pre>
 
-2. Tints Zoom shortcode 
+<strong> * Tints Zoom shortcode </strong>
 
 <pre>[Tints_zoom small_img="" large_img=""]</pre>
 
-3. Inner Zoom shortcode 
+<strong> * Inner Zoom shortcode </strong>
 
 <pre>[WM_Inner_Zoom small_img="" large_img=""]</pre>
 
-4. Lens Zoom shortcode 
+<strong> * Lens Zoom shortcode </strong>
 
 <pre>[WM_Lens_Zoom small_img="" large_img=""]</pre>
  
-5. Mousewheel Zoom shortcode 
+<strong> * Mousewheel Zoom shortcode </strong>
 
 <pre>[WM_Mousewheel_Zoom small_img="" large_img=""]</pre>
 
-6. Gallery Zoom shortcode 
+<strong> * Gallery Zoom shortcode </strong>
 
 <pre>[Gallery1 small_img="" large_img="" thumb_img=""][Gallery2 small_img1="" large_img1="" thumb_img1=""][/Gallery1]</pre>
 
 
 == Frequently Asked Questions ==
 
+=Why the plugin doesn't support for Zoom? =
 
+If you need to link support for zoom, you have to extra charge.
 
 == Screenshots ==
 
-
-1. `/assets/screenshot-1.png`
+1. Installed in demo server 
 
 == Changelog ==
+
+= 1.0 =
 
 Initial Release
